@@ -24,6 +24,7 @@ export function SiteFooter() {
                 JiangXiShengJiAnShi, 343000, China
               </p>
               <p>janiecemotto67@outlook.com</p>
+              <p> Contact Person: QiuXiang Liu</p>
             </div>
           </div>
 
